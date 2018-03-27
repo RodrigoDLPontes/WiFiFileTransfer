@@ -1,0 +1,39 @@
+html {
+    display: table;
+    margin: auto;
+    background: #fafafa;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+h1 {
+    font-family: Avenir, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 1.5em;
+    text-align: center;
+    color: #4d4d4d;
+}
+
+a {
+    font-family: Avenir, Arial, sans-serif;
+    font-size: 1.5em;
+    color: #333;
+    text-decoration: none;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    border-bottom: 1px solid #b3b3b3;
+}
+
+form {
+    padding-bottom: 1em;
+    text-align: center;
+}

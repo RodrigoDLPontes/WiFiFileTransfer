@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">كاليفورنيا--التطبيق-حانة-4901141430976180/4539367358</string>
+	<string name="serverOffline">الملقم غير متصل</string>
+	<string name="noActiveConnection">لا يوجد اتصال نشط!</string>
+	<string name="pleaseConnectToWiFiFirst">الرجاء الاتصال اللاسلكي أولاً</string>
+	<string name="typeInBrowser">اكتب في المتصفح:</string>
+
+</resources>

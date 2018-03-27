@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">CA-app-pubi-4901141430976180/4539367358</string>
+	<string name="serverOffline">Ühenduseta serveri</string>
+	<string name="noActiveConnection">Aktiivne ühendus!</string>
+	<string name="pleaseConnectToWiFiFirst">Palun ühendage WiFi esmalt</string>
+	<string name="typeInBrowser">Kirjuta brauser:</string>
+
+</resources>

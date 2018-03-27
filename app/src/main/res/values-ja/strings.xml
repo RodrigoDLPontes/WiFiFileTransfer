@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">ca-アプリ-パブ-4901141430976180/4539367358</string>
+	<string name="serverOffline">サーバーをオフライン</string>
+	<string name="noActiveConnection">アクティブな接続がない!</string>
+	<string name="pleaseConnectToWiFiFirst">まず、WiFi に接続してください。</string>
+	<string name="typeInBrowser">ブラウザーに入力します。</string>
+
+</resources>

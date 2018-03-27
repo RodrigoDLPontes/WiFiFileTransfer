@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">ca-แอผับ-4901141430976180/4539367358</string>
+	<string name="serverOffline">เซิร์ฟเวอร์แบบออฟไลน์</string>
+	<string name="noActiveConnection">ไม่เชื่อมต่อ</string>
+	<string name="pleaseConnectToWiFiFirst">โปรดเชื่อมต่อกับ Wi-fi ก่อน</string>
+	<string name="typeInBrowser">พิมพ์ในเบราว์เซอร์:</string>
+
+</resources>

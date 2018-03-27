@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">CA-app-pub-4901141430976180/4539367358</string>
+	<string name="serverOffline">Szerver offline</string>
+	<string name="noActiveConnection">Nincs aktív kapcsolat!</string>
+	<string name="pleaseConnectToWiFiFirst">Legyen szíves összeköt-hoz WiFi első</string>
+	<string name="typeInBrowser">Írja be a böngésző:</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">CA-app-pub-4901141430976180/4539367358</string>
+	<string name="serverOffline">Server non in linea</string>
+	<string name="noActiveConnection">Nessuna connessione attiva!</string>
+	<string name="pleaseConnectToWiFiFirst">Si prega di connettersi al WiFi prima</string>
+	<string name="typeInBrowser">Digitare nel browser:</string>
+
+</resources>

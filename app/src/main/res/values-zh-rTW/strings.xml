@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">ca-應用程式-酒館-4901141430976180/4539367358</string>
+	<string name="serverOffline">伺服器處於離線狀態</string>
+	<string name="noActiveConnection">沒有活動的連接 ！</string>
+	<string name="pleaseConnectToWiFiFirst">請首先連接到無線網路</string>
+	<string name="typeInBrowser">在瀏覽器中鍵入 ︰</string>
+
+</resources>

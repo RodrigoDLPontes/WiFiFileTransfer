@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">Ca-app-pub-4901141430976180/4539367358</string>
+	<string name="serverOffline">Máy chủ ngoại tuyến</string>
+	<string name="noActiveConnection">Không có kết nối đang hoạt động!</string>
+	<string name="pleaseConnectToWiFiFirst">Xin vui lòng kết nối với WiFi đầu tiên</string>
+	<string name="typeInBrowser">Gõ vào trình duyệt:</string>
+
+</resources>

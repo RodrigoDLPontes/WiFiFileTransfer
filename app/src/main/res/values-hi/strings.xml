@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">ca-app-पब-4901141430976180/4539367358</string>
+	<string name="serverOffline">सर्वर ऑफ़लाइन</string>
+	<string name="noActiveConnection">कोई सक्रिय कनेक्शन!</string>
+	<string name="pleaseConnectToWiFiFirst">कृपया पहले WiFi से कनेक्ट करें</string>
+	<string name="typeInBrowser">ब्राउज़र में टाइप करें:</string>
+
+</resources>

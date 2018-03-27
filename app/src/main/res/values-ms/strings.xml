@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">Ca-aplikasi-pub-4901141430976180/4539367358</string>
+	<string name="serverOffline">Pelayan di luar talian</string>
+	<string name="noActiveConnection">Tiada sambungan aktif!</string>
+	<string name="pleaseConnectToWiFiFirst">Sila berhubung dengan WiFi pertama</string>
+	<string name="typeInBrowser">Taip pelayar:</string>
+
+</resources>

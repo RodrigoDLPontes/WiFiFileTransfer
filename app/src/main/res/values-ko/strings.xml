@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">캘리포니아-애플 리 케이 션-술집-4901141430976180/4539367358</string>
+	<string name="serverOffline">서버 오프 라인</string>
+	<string name="noActiveConnection">활성 연결!</string>
+	<string name="pleaseConnectToWiFiFirst">먼저 WiFi에 연결 하시기 바랍니다</string>
+	<string name="typeInBrowser">브라우저에 입력 합니다.</string>
+
+</resources>

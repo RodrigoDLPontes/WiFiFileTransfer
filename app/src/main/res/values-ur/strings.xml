@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">وسطی ایشیا-اپلی کیشن-پب-4901141430976180/4539367358</string>
+	<string name="serverOffline">پیش کار آف لائن</string>
+	<string name="noActiveConnection">کوئی فعال کنکشن!</string>
+	<string name="pleaseConnectToWiFiFirst">براہ مہربانی سب سے پہلے وائی فائی سے رابطہ قائم</string>
+	<string name="typeInBrowser">براؤزر میں ٹائپ کریں:</string>
+
+</resources>

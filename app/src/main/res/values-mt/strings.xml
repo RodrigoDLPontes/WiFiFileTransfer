@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">Ca-app-pub-4901141430976180/4539367358</string>
+	<string name="serverOffline">Is-server offline</string>
+	<string name="noActiveConnection">L-ebda konnessjoni attiva!</string>
+	<string name="pleaseConnectToWiFiFirst">Jekk jogħġbok żur WiFi Real-Time ewwel</string>
+	<string name="typeInBrowser">Ittajpja fil-brawżer:</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">ca-نرم افزار-میخانه-4901141430976180/4539367358</string>
+	<string name="serverOffline">سرور آفلاین</string>
+	<string name="noActiveConnection">هیچ ارتباط فعال!</string>
+	<string name="pleaseConnectToWiFiFirst">لطفا اتصال به WiFi اول</string>
+	<string name="typeInBrowser">در مرورگر تایپ کنید:</string>
+
+</resources>

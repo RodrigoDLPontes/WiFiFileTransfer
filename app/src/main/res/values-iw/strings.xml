@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">ca-app-פאב-4901141430976180/4539367358</string>
+	<string name="serverOffline">השרת במצב לא מקוון</string>
+	<string name="noActiveConnection">אין חיבור פעיל!</string>
+	<string name="pleaseConnectToWiFiFirst">אנא התחבר WiFi קודם</string>
+	<string name="typeInBrowser">הקלד בדפדפן:</string>
+
+</resources>

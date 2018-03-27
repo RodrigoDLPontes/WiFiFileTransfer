@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">CA-app-pub-4901141430976180/4539367358</string>
+	<string name="serverOffline">Sunucu çevrimdışı</string>
+	<string name="noActiveConnection">Etkin bağlantı yok!</string>
+	<string name="pleaseConnectToWiFiFirst">Lütfen ilk WiFi bağlanma</string>
+	<string name="typeInBrowser">Tarayıcıda yazın:</string>
+
+</resources>

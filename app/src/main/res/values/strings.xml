@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WiFi File Transfer</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4901141430976180/4539367358</string>
+    <string name="serverOffline">Server offline</string>
+    <string name="noActiveConnection">No active connection!</string>
+    <string name="pleaseConnectToWiFiFirst">Please connect to WiFi first</string>
+    <string name="typeInBrowser">Type in browser:</string>
+    <string name="port" translatable="false">Port:</string>
+</resources>

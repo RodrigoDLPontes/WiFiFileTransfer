@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">CA-ап-кръчма-4901141430976180/4539367358</string>
+	<string name="serverOffline">Сървър офлайн</string>
+	<string name="noActiveConnection">Няма активна връзка!</string>
+	<string name="pleaseConnectToWiFiFirst">Моля се свържете с WiFi първо</string>
+	<string name="typeInBrowser">Въведете в браузъра:</string>
+
+</resources>

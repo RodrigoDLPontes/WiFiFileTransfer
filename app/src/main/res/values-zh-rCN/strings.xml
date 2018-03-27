@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="banner_ad_unit_id">ca-应用程序-酒馆-4901141430976180/4539367358</string>
+	<string name="serverOffline">服务器处于脱机状态</string>
+	<string name="noActiveConnection">没有活动的连接 ！</string>
+	<string name="pleaseConnectToWiFiFirst">请首先连接到无线网络</string>
+	<string name="typeInBrowser">在浏览器中键入 ︰</string>
+
+</resources>
